@@ -1,0 +1,38 @@
+{
+  "name": "Angular_JSONAPI_Interface",
+  "description": "Angular implementation of the MicroStrategy JSON API server",
+  "main": "gulpfile.js",
+  "authors": [
+    "Tiago Siebler <TSiebler@microstrategy.com>"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "MicroStrategy",
+    "AngularJS",
+    "104",
+    "JSON",
+    "API",
+    "Bootstrap"
+  ],
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular-animate": "^1.5.8",
+    "angular-bootstrap": "^2.0.1",
+    "angular-cookies": "^1.5.8",
+    "angular-route": "^1.5.8",
+    "nprogress": "^0.2.0",
+    "ng-json-explorer": "*",
+    "angular": "^1.5.8",
+    "jquery": "2.2.4",
+    "bootstrap": "^3.3.7",
+    "animate.css": "^3.5.2"
+  }
+}
