@@ -4,6 +4,12 @@ This is an angular implementation of the [MicroStrategy JSON Data API](https://l
 
 The interface is built using bootstrap components, brought to life using Angular JS, driven via the MicroStrategy JSON Data API.
 
+# Live Demo
+A live demo of this website can be seen here:
+https://tiagosiebler.github.io/Angular_JSONAPI_Interface/build/index.html
+
+This demo is a live implementation of the latest code in this repository.
+
 # Basic Usage
 ## Development 
 1. Install gulp dependencies
